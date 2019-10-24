@@ -28,4 +28,4 @@ jobs:
           --recursive \
           --acl public-read \
           --region eu-west-1 \
-          ./_site/ [s3://slate-api-test]
+          ./_site/ s3://slate-api-test
